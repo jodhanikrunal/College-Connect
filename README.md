@@ -1,4 +1,4 @@
-# COLLEGE ERP
+# College Connect
 
 College ERP using MERN Stack
 
